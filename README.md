@@ -1,4 +1,7 @@
-React base
+React Base
+==========
 
-npm install
-npm start
+A minimal base install for React development. Just the basics.
+
+    npm install
+    npm start
